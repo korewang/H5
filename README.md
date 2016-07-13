@@ -1,1 +1,4 @@
-h5的项目，全是烂尾楼，留着以后慢慢改吧，服务器都不稳定搞毛线公司啊
+h5
+windows下用redis  解压后执行redis-server  redis.windows.conf  
+双击目录的redis-cli.exe
+ 进行set  get·
